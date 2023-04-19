@@ -1,0 +1,97 @@
+Task 1: Create H2 level heading as Welcome to Python programming and add the image from the following url
+with alt text as This is SN labs New Launcher(https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/
+IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/Launcher.png)
+
+Solution :Images can be rendered in the following format: Name of image:![alt_text](Path)
+
+Select markdown
+## Welcome To Python Programming
+
+Launcher:![This is SN labs New launcher](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/
+IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/Launcher.png)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Task 2: Create a hyperlink to https://www.coursera.org/learn/open-source-tools-for-data-science/home with the
+Name of the link as "Tools For Data Science".
+
+Solution: Select markdown
+[Tools For Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science/home)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Task 3 : Create a table
+
+HINT : To create tables, use:
+
+    hyphens (----) for column headers
+    pipes | to separate each column
+    Text on a new line to separate each row
+
+
+Solution: Select Markdown
+| Fruits | Quantity | Price|
+|--------|----------|------|
+| Apple  |     2    |  2   |
+| Orange |     1    |  4   |
+| Mango  |     3    |  10  |
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Task 4 : Create Ordered List in Markdown
+
+Solution: 
+Select markdown
+
+
+ 1. Python
+ 2. Java
+ 3. C++
+ 4. C
+
+-----------------------------------------------------------------------------------------------------------------------------
+Task 5 : Create Unordered List in Markdown
+
+HINT: An unordered list is also referred to as a bulleted list.
+You can create an unordered list by adding dashes (-), asterisks (*), or plus signs (+) in front of line items.
+
+Solution: 
+Select markdown
+
+
+ - Python
+ - Java
+ - C++
+ - C
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Task 6 : Create bold and Italics
+
+HInt : 
+**Bold Text using asterisks.**  
+__Bold Text using underscores.__
+#Italic Text
+You can display text in italics by adding a single asterisk or underscore before and after a word, phrase, or a sentence.
+#BOLD AND ITALICS
+***Bold and Italic text using asterisks.***  
+___Bold and Italic text using underscores.__
+
+Solution : 
+SElect markdown
+
+## BOLD TEXT
+
+**Apple**
+__Apple__
+
+## Italic Text
+
+*Appple*
+_Apple_
+
+## Bold And Italic Text
+
+***Apple***
+___Apple___
+
+-----------------------------------------------------------------------------------------------------------------------------
